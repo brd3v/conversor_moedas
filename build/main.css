@@ -1,0 +1,30 @@
+body {
+  background-color: #596275;
+  display: flex;
+  width: 100%;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  color: #f7f1e3;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  background-color: #303952;
+  height: 500px;
+  width: 300px;
+  padding: 1rem 1rem;
+  border-radius: 10px;
+  text-align: center;
+}
+.container h3 {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+#cotacao {
+  margin-top: 100%;
+}
+
+/*# sourceMappingURL=main.css.map */

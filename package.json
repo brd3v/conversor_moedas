@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "sass": "^1.68.0"
+  },
+  "name": "conversor-de-moedas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "sass": "sass",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
