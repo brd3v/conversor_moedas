@@ -14,7 +14,8 @@ action.addEventListener('click',() => {
 })
 
 
-cotacao.innerHTML = ` a cotação atual do Dolar é: $${retorno.high}`
+cotacao.innerHTML = `A cotação atual do Dolar é: $${parseFloat(retorno.high).toFixed(2)}`
+
 
     console.log(retorno.high)})
 .catch((error) => console.log(error))
